@@ -1,0 +1,91 @@
+* handle multilanguage when user adds VenueData
+Delete Images from assets
+
+* SET IS_USED TO 1
+
+
+*** BUY TEMPLATE LICENSE***
+
+
+
+1 key property features
+2 general facilities
+3 indoor facilities
+4 outdoor facilities
+5 indoor yoga equipment
+6 outdoor yoga equipment
+7 surroundings
+8 things to do
+9 rentals
+10 food
+11 kitchen
+12 accommodation amenties
+13 bedroom arrangements
+
+
+// RESTRICT VENUECONTROLLER AUTH SAME user
+
+// add a column to venue table if the venue offers yoga space. ** I CAN ALSO USE NULL VS 0
+
+
+ASK:
+1. what should be done if user changes venue country or state, airports should be deleted?
+2. Ask for image validations. how many images per facilites section. and others. max size.
+
+
+
+* Disable save button after clicked on save venue listing
+
+
+MAKE THE FUCKING STEPS AVAILABLE DATABASE
+
+
+
+
+MAPS: when loading the name address step from another page, the map has error. see console
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Share Venue Confirmation via email, facebook.
+2. Send message emails. (an email for every message)
+3. manage dates in calendar, venue name.
+4. border bottom on hover and active.
+5. escape key on lighbox closes gallery modal
+4. mobile navigation, close on click
+5. * edit venue booking, recalculate price and add price to remaining balance *
+
+
+Retreats:
+1. same as venues mostly, one time purchase, flexible cancellation policy, ...
+
+Ask for
+How many days till booking is cancelled.
